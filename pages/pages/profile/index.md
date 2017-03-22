@@ -35,46 +35,36 @@ image: /wp/images/2014/12/b0edb59d97976fb1c698b9997460f6e3-e1458137465824.jpg
   </div>
   <div class="container">
     <div class="row">
-      <div class="col-lg-3 col-6">
-        <div class="service-box" data-toggle="tooltip" data-placement="top" title="HTML">
-          <i class="fa-4x devicons devicons-html5 wow bounceIn" data-wow-duration="2.0s"></i>
+      <div class="col-lg-4">
+        <div class="service-box" data-toggle="tooltip" data-placement="top" title="React">
+          <i class="fa-4x devicons devicons-react wow bounceIn" data-wow-duration="2.0s"></i>
         </div>
       </div>
-      <div class="col-lg-3 col-6">
+      <div class="col-lg-4">
         <div class="service-box" data-toggle="tooltip" data-placement="top" title="JavaScript">
           <i class="fa-4x devicons devicons-javascript_badge wow bounceIn" data-wow-duration="2.0s"></i>
         </div>
       </div>
-      <div class="col-lg-3 col-6">
-        <div class="service-box" data-toggle="tooltip" data-placement="top" title="Node.js">
-          <i class="fa-4x devicons devicons-nodejs wow bounceIn" data-wow-duration="2.0s"></i>
-        </div>
-      </div>
-      <div class="col-lg-3 col-6">
-        <div class="service-box" data-toggle="tooltip" data-placement="top" title="Gulp">
-          <i class="fa-4x devicons devicons-gulp wow bounceIn" data-wow-duration="2.0s"></i>
+      <div class="col-lg-4">
+        <div class="service-box" data-toggle="tooltip" data-placement="top" title="HTML">
+          <i class="fa-4x devicons devicons-html5 wow bounceIn" data-wow-duration="2.0s"></i>
         </div>
       </div>
     </div>
     <div class="row">
-      <div class="col-lg-3 col-6 ">
-        <div class="service-box" data-toggle="tooltip" data-placement="top" title="PHP">
-          <i class="fa-4x devicons devicons-php wow bounceIn" data-wow-duration="2.0s"></i>
+      <div class="col-lg-4">
+        <div class="service-box" data-toggle="tooltip" data-placement="top" title="CSS3">
+          <i class="fa-4x devicons devicons-css3 wow bounceIn" data-wow-duration="2.0s"></i>
         </div>
       </div>
-      <div class="col-lg-3 col-6 ">
-        <div class="service-box" data-toggle="tooltip" data-placement="top" title="Perl">
-          <i class="fa-4x devicons devicons-perl wow bounceIn" data-wow-duration="2.0s"></i>
+      <div class="col-lg-4">
+        <div class="service-box" data-toggle="tooltip" data-placement="top" title="Git">
+          <i class="fa-4x devicons devicons-git wow bounceIn" data-wow-duration="2.0s"></i>
         </div>
       </div>
-      <div class="col-lg-3 col-6 ">
-        <div class="service-box" data-toggle="tooltip" data-placement="top" title="Swift">
-          <i class="fa-4x devicons devicons-swift wow bounceIn" data-wow-duration="2.0s"></i>
-        </div>
-      </div>
-      <div class="col-lg-3 col-6 ">
-        <div class="service-box" data-toggle="tooltip" data-placement="top" title="Titanium">
-          <i class="fa-4x devicons devicons-appcelerator wow bounceIn" data-wow-duration="2.0s"></i>
+      <div class="col-lg-4">
+        <div class="service-box" data-toggle="tooltip" data-placement="top" title="Python">
+          <i class="fa-4x devicons devicons-python wow bounceIn" data-wow-duration="2.0s"></i>
         </div>
       </div>
     </div>
