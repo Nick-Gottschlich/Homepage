@@ -20,11 +20,11 @@ class SiteNavi extends React.Component {
                 <Link to={prefixLink('/')} className="nav-link">Home</Link>
               </li>
               <li className={location.pathname === prefixLink('/profile/') ? 'nav-item active' : 'nav-item'}>
-                <Link to={prefixLink('/profile/')} className="nav-link">Profile</Link>
+                <Link to={prefixLink('/profile/')} className="nav-link">About Me</Link>
               </li>
               <li className="nav-item dropdown">
                 <a className="nav-link dropdown-toggle" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                  Link
+                  Find me on
                 </a>
                 <div className="dropdown-menu bg-danger" aria-labelledby="navbarDropdownMenuLink">
                   <a className="dropdown-item" href="https://github.com/Nick-Gottschlich/">Github</a>
