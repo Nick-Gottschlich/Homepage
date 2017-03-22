@@ -1,7 +1,7 @@
 {
-  "version": "0.1.1",
-  "name": "gatsby-starter-bootstrap",
-  "description": "Simple starter for Gatsby",
+  "version": "0.0.1",
+  "name": "nickgo.tt",
+  "description": "Nick Gottschlich's homepage and blog",
   "main": "n/a",
   "scripts": {
     "develop": "gatsby develop",
