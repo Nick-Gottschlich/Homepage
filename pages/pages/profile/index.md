@@ -15,7 +15,7 @@ image: /wp/images/2014/12/b0edb59d97976fb1c698b9997460f6e3-e1458137465824.jpg
   <div class="container">
     <img src="mephoto.jpg" alt="Nick Gottschlich" class="rounded-circle mx-auto d-block" width="120px">
     <h1>Nick Gottschlich</h1>
-    <p class="lead text-muted">Software Engineer</p>
+    <p class="lead text-muted">Software Engineer, Anime and Video Game Nerd, Occasionally Human Being</p>
     <div class="service-box">
         <a href="https://github.com/Nick-Gottschlich"><i class="fa fa-github wow bounceIn" data-wow-duration="2.0s"></i></a>
         <a href="https://twitter.com/NickGottschlich"><i class="fa fa fa-twitter wow bounceIn" data-wow-duration="2.0s"></i></a>
@@ -75,14 +75,15 @@ image: /wp/images/2014/12/b0edb59d97976fb1c698b9997460f6e3-e1458137465824.jpg
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
-        <h2 class="section-heading">Features </h2>
+        <h2 class="section-heading">About me: </h2>
         <hr class="primary" />
       </div>
     </div>
   </div>
   <div class="container">
     <div class="service-box">
-    <p>sampletext</p>
+    <p>I am a Software Engineer at BazaarVoice. My focus is on front-end development. I aim to build applications and sites that are beautiful, fast and functional.
+    Previously I worked as an independent contractor at data.world. </p>
     </div>
   </div>
 </section>
@@ -91,7 +92,7 @@ image: /wp/images/2014/12/b0edb59d97976fb1c698b9997460f6e3-e1458137465824.jpg
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
-        <h2 class="section-heading">WORKS </h2>
+        <h2 class="section-heading">Projects </h2>
         <hr class="light" />
       </div>
     </div>
@@ -99,7 +100,12 @@ image: /wp/images/2014/12/b0edb59d97976fb1c698b9997460f6e3-e1458137465824.jpg
   <div class="container">
     <div class="row">
       <div class="col-md-6 wow slideInLeft" data-wow-duration="1.0s">
-        <p>image1</p>
+        <p>
+          <a class="projectLink" href="http://nickgottschlich.com/WebBuild/WebBuild.html" target="_blank">Binary Bros</a>
+        </p>
+        <p>
+          A co-op M.C. Escher style puzzle-platformer where you act as a bit in a computer, and must work with your binary bro to fulfill the user's requests. This game was made with fellow students while studying in the Computer Science program at the University of Michigan.
+        </p>
       </div>
       <div class="col-md-6 wow slideInRight" data-wow-duration="1.0s">
         <p>image2</p>

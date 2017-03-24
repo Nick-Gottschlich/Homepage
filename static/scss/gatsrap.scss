@@ -5,7 +5,8 @@
 // Start with assigning color names to specific hex values.
 $white:  #fff !default;
 $black:  #000 !default;
-$red:    #F44336 !default;
+//I have no idea why but $red is the default /shurg, so I just changed it to the color I Wanted
+$red:    #673AB7 !default;
 $orange: #FF9800 !default;
 $yellow: #FFEB3B !default;
 $green:  #8BC34A !default;
@@ -131,6 +132,20 @@ blockquote a {
 
 .badge {
     margin-right: 3px;
+}
+
+.rounded-circle {
+  width: 350px;
+}
+
+.fa {
+  font-size: 40px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.projectLink {
+  color: $orange !important;
 }
 
 time {
