@@ -148,6 +148,11 @@ blockquote a {
   color: $orange !important;
 }
 
+.projectLink:hover {
+  // color:  !important;
+  text-decoration: underline;
+}
+
 time {
     font-size: 0.75rem;
     color: #ccc;

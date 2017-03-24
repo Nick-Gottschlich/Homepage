@@ -21,6 +21,11 @@ image: /wp/images/2014/12/b0edb59d97976fb1c698b9997460f6e3-e1458137465824.jpg
         <a href="https://twitter.com/NickGottschlich"><i class="fa fa fa-twitter wow bounceIn" data-wow-duration="2.0s"></i></a>
         <a href="https://www.linkedin.com/in/nicholas-gottschlich/"><i class="fa fa fa-linkedin wow bounceIn" data-wow-duration="2.0s"></i></a>
     </div>
+    <div class="col-md">
+        <h2 class="projectLink">
+          <a href="http://nickgottschlich.com/CVforSite.pdf" target="_blank">Resume</a>
+        </h2>
+    </div>
   </div>
 </section>
 
@@ -104,27 +109,17 @@ image: /wp/images/2014/12/b0edb59d97976fb1c698b9997460f6e3-e1458137465824.jpg
           <a class="projectLink" href="http://nickgottschlich.com/WebBuild/WebBuild.html" target="_blank">Binary Bros</a>
         </p>
         <p>
-          A co-op M.C. Escher style puzzle-platformer where you act as a bit in a computer, and must work with your binary bro to fulfill the user's requests. This game was made with fellow students while studying in the Computer Science program at the University of Michigan.
+          A co-op M.C. Escher style puzzle-platformer where you act as a bit in a computer, and must work with your binary bro to fulfill the user's requests. This game was made with fellow engineering students while studying in the Computer Science program at the University of Michigan, and it's full code is open-source and available in my Github repo.
         </p>
       </div>
       <div class="col-md-6 wow slideInRight" data-wow-duration="1.0s">
-        <p>image2</p>
+        <p>
+          <a class="projectLink" href="https://docs.data.world/tutorials/sparql/index.html" target="_blank">data.world SPARQL tutorial</a>
+        </p>
+        <p>
+          Have you ever wanted to use the baddest data-science query langauge in the land? Well now you can! While I was working at data.world I led the development of their <a href="https://en.wikipedia.org/wiki/SPARQL" target="_blank">SPARQL</a> tutorial. Check it out!
+        </p>
       </div>
-    </div>
-  </div>
-</section>
-
-<section id="repos">
-  <div class="container">
-    <div class="row">
-        <div class="col-md-6 ">
-            <h2 class="section-heading">Repositories</h2>
-        </div>
-        <div class="col-md-6 text-xs-left">
-            <li><a href="">sample</a></li>
-            <li><a href="">sample</a></li>
-            <li><a href="">sample</a></li>
-        </div>
     </div>
   </div>
 </section>
