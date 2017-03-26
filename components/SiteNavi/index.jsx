@@ -27,9 +27,9 @@ class SiteNavi extends React.Component {
                   Find me on
                 </a>
                 <div className="dropdown-menu bg-danger" aria-labelledby="navbarDropdownMenuLink">
-                  <a className="dropdown-item" href="https://github.com/Nick-Gottschlich/">Github</a>
-                  <a className="dropdown-item" href="https://twitter.com/NickGottschlich">Twitter</a>
-                  <a className="dropdown-item" href="https://www.linkedin.com/in/nicholas-gottschlich/">LinkedIn</a>
+                  <a className="dropdown-item" href="https://github.com/Nick-Gottschlich/" target="_blank">Github</a>
+                  <a className="dropdown-item" href="https://twitter.com/NickGottschlich" target="_blank">Twitter</a>
+                  <a className="dropdown-item" href="https://www.linkedin.com/in/nicholas-gottschlich/" target="_blank">LinkedIn</a>
                 </div>
               </li>
             </ul>

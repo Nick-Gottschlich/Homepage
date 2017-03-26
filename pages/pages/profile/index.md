@@ -17,9 +17,9 @@ image: /wp/images/2014/12/b0edb59d97976fb1c698b9997460f6e3-e1458137465824.jpg
     <h1>Nick Gottschlich</h1>
     <p class="lead text-muted">Software Engineer, Anime and Video Game Nerd, Occasionally Human Being</p>
     <div class="service-box">
-        <a href="https://github.com/Nick-Gottschlich"><i class="fa fa-github wow bounceIn" data-wow-duration="2.0s"></i></a>
-        <a href="https://twitter.com/NickGottschlich"><i class="fa fa fa-twitter wow bounceIn" data-wow-duration="2.0s"></i></a>
-        <a href="https://www.linkedin.com/in/nicholas-gottschlich/"><i class="fa fa fa-linkedin wow bounceIn" data-wow-duration="2.0s"></i></a>
+        <a href="https://github.com/Nick-Gottschlich" target="_blank"><i class="fa fa-github wow bounceIn" data-wow-duration="2.0s"></i></a>
+        <a href="https://twitter.com/NickGottschlich" target="_blank"><i class="fa fa fa-twitter wow bounceIn" data-wow-duration="2.0s"></i></a>
+        <a href="https://www.linkedin.com/in/nicholas-gottschlich/" target="_blank"><i class="fa fa fa-linkedin wow bounceIn" data-wow-duration="2.0s"></i></a>
     </div>
     <div class="col-md">
         <h2 class="projectLink">
@@ -117,7 +117,7 @@ image: /wp/images/2014/12/b0edb59d97976fb1c698b9997460f6e3-e1458137465824.jpg
           <a class="projectLink" href="https://docs.data.world/tutorials/sparql/index.html" target="_blank">data.world SPARQL tutorial</a>
         </p>
         <p>
-          Have you ever wanted to use the baddest data-science query langauge in the land? Well now you can! While I was working at data.world I led the development of their <a href="https://en.wikipedia.org/wiki/SPARQL" target="_blank">SPARQL</a> tutorial. Check it out!
+          Have you ever wanted to use the baddest data-science query langauge in the land? Well now you can! While I was working at data.world I led the development of their <a class="projectLink" href="https://en.wikipedia.org/wiki/SPARQL" target="_blank">SPARQL</a> tutorial. Check it out!
         </p>
       </div>
     </div>
